@@ -1,0 +1,5 @@
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Kotitehtava_8_11_2012\kotitehtava_8_11_2012\bin\Debug\kotitehtava_8_11_2012.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Kotitehtava_8_11_2012\kotitehtava_8_11_2012\bin\Debug\kotitehtava_8_11_2012.pdb
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Kotitehtava_8_11_2012\kotitehtava_8_11_2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Kotitehtava_8_11_2012\kotitehtava_8_11_2012\obj\x86\Debug\kotitehtava_8_11_2012.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Kotitehtava_8_11_2012\kotitehtava_8_11_2012\obj\x86\Debug\kotitehtava_8_11_2012.pdb

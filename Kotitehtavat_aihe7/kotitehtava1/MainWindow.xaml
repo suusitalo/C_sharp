@@ -1,0 +1,13 @@
+﻿<Window x:Class="kotitehtava1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Arvo luvut" Height="23" HorizontalAlignment="Left" Margin="320,57,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Label Content="Anna arvottavien lukujen määrä" Height="28" HorizontalAlignment="Left" Margin="12,53,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="194,58,0,0" Name="numberAmount" VerticalAlignment="Top" Width="120" DataContext="{Binding}" />
+        <TextBox Height="80" HorizontalAlignment="Left" Margin="97,106,0,0" Name="NumberList" VerticalAlignment="Top" Width="269" TextChanged="NumberList_TextChanged" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" ClipToBounds="False" />
+        <Label Content="Arvotut luvut" Height="28" HorizontalAlignment="Left" Margin="12,132,0,0" Name="label2" VerticalAlignment="Top" />
+        <Button Content="Lopeta" Height="23" HorizontalAlignment="Left" Margin="206,235,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+    </Grid>
+</Window>

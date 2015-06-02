@@ -1,0 +1,13 @@
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\bin\Debug\Kotitehtava2.exe
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\bin\Debug\Kotitehtava2.pdb
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\MainWindow.baml
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\App.g.cs
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\Kotitehtava2_MarkupCompile.cache
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\Kotitehtava2.g.resources
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\Kotitehtava2.Properties.Resources.resources
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\Kotitehtava2.exe
+C:\Users\Sami\documents\visual studio 2010\Projects\Kotitehtavat_aihe7\Kotitehtava2\obj\x86\Debug\Kotitehtava2.pdb

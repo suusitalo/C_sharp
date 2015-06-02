@@ -1,0 +1,26 @@
+﻿<Window x:Class="kotitehtävä_27_11_2012.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="125,47,0,0" Name="textBoxLevynNimi" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="125,104,0,0" Name="textBoxArtisti" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="125,160,0,0" Name="textBoxLevynPituus" VerticalAlignment="Top" Width="120" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="125,213,0,0" Name="comboBoxGenreSelection" VerticalAlignment="Top" Width="120" IsEditable="False" IsManipulationEnabled="False">
+            <ComboBoxItem Content="POP" />
+            <ComboBoxItem Content="ROCK" />
+            <ComboBoxItem Content="JAZZ" />
+            <ComboBoxItem Content="TUNTEMATON" />
+        </ComboBox>
+        <Button Content="Tallenna levy" Height="23" HorizontalAlignment="Left" Margin="120,263,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="Lopeta" Height="23" HorizontalAlignment="Left" Margin="294,264,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label Content="Levyn nimi:" Height="28" HorizontalAlignment="Left" Margin="12,47,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Artisti:" Height="28" HorizontalAlignment="Left" Margin="12,104,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Levyn pituus:" Height="28" HorizontalAlignment="Left" Margin="12,160,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Genre:" Height="28" HorizontalAlignment="Left" Margin="12,213,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="s" Height="28" HorizontalAlignment="Left" Margin="251,158,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Tallennetut levyt:" Height="28" HorizontalAlignment="Left" Margin="313,7,0,0" Name="label6" VerticalAlignment="Top" />
+        <TextBox Height="206" HorizontalAlignment="Left" Margin="294,30,0,0" Name="textBoxDiscList" VerticalAlignment="Top" Width="178" VerticalScrollBarVisibility="Auto" ClipToBounds="True"  />
+        <Label Content="Levyn tiedot" Height="28" HorizontalAlignment="Left" Margin="85,7,0,0" Name="label7" VerticalAlignment="Top" FontWeight="Bold" />
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\bin\Debug\Lopputyö.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\bin\Debug\Lopputyö.pdb
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\MainWindow.baml
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\App.g.cs
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\Lopputyö_MarkupCompile.cache
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\Lopputyö.g.resources
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\Lopputyö.Properties.Resources.resources
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\Lopputyö.csproj.GenerateResource.Cache
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\Lopputyö.exe
+C:\Users\Sami\Documents\Visual Studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\Lopputyö.pdb
+C:\Users\Sami\documents\visual studio 2010\Projects\Lopputyö\Lopputyö\obj\x86\Debug\Lopputyö.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\sami\documents\visual studio 2010\Projects\Kotitehtava_aihe8\Kotitehtava_aihe8\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sami\documents\visual studio 2010\Projects\Kotitehtava_aihe8\Kotitehtava_aihe8\bin\Debug\Kotitehtava_aihe8.exe
+c:\users\sami\documents\visual studio 2010\Projects\Kotitehtava_aihe8\Kotitehtava_aihe8\bin\Debug\Kotitehtava_aihe8.pdb
+c:\users\sami\documents\visual studio 2010\Projects\Kotitehtava_aihe8\Kotitehtava_aihe8\obj\x86\Debug\Kotitehtava_aihe8.exe
+c:\users\sami\documents\visual studio 2010\Projects\Kotitehtava_aihe8\Kotitehtava_aihe8\obj\x86\Debug\Kotitehtava_aihe8.pdb
+H:\vanhalta koneelta\C#\Kotitehtava_aihe8\Kotitehtava_aihe8\obj\x86\Debug\Kotitehtava_aihe8.exe
+H:\vanhalta koneelta\C#\Kotitehtava_aihe8\Kotitehtava_aihe8\obj\x86\Debug\Kotitehtava_aihe8.pdb

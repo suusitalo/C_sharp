@@ -1,0 +1,13 @@
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\bin\Debug\kotitehtava_14_3_2013.exe
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\bin\Debug\kotitehtava_14_3_2013.pdb
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\MainWindow.baml
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\MainWindow.g.cs
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\App.g.cs
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\kotitehtava_14_3_2013_MarkupCompile.cache
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\kotitehtava_14_3_2013.g.resources
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\kotitehtava_14_3_2013.Properties.Resources.resources
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\kotitehtava_14_3_2013.exe
+c:\Users\Sami\Documents\Visual Studio 2010\Projects\kotitehtava14_3_2013\kotitehtava_14_3_2013\obj\x86\Debug\kotitehtava_14_3_2013.pdb
